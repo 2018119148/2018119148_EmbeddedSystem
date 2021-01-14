@@ -1,0 +1,27 @@
+--cpu=Cortex-M4.fp.sp
+"shiyan2-1\startup_stm32f407xx.o"
+"shiyan2-1\main.o"
+"shiyan2-1\gpio.o"
+"shiyan2-1\tim.o"
+"shiyan2-1\stm32f4xx_it.o"
+"shiyan2-1\stm32f4xx_hal_msp.o"
+"shiyan2-1\stm32f4xx_hal_tim.o"
+"shiyan2-1\stm32f4xx_hal_tim_ex.o"
+"shiyan2-1\stm32f4xx_hal_rcc.o"
+"shiyan2-1\stm32f4xx_hal_rcc_ex.o"
+"shiyan2-1\stm32f4xx_hal_flash.o"
+"shiyan2-1\stm32f4xx_hal_flash_ex.o"
+"shiyan2-1\stm32f4xx_hal_flash_ramfunc.o"
+"shiyan2-1\stm32f4xx_hal_gpio.o"
+"shiyan2-1\stm32f4xx_hal_dma_ex.o"
+"shiyan2-1\stm32f4xx_hal_dma.o"
+"shiyan2-1\stm32f4xx_hal_pwr.o"
+"shiyan2-1\stm32f4xx_hal_pwr_ex.o"
+"shiyan2-1\stm32f4xx_hal_cortex.o"
+"shiyan2-1\stm32f4xx_hal.o"
+"shiyan2-1\stm32f4xx_hal_exti.o"
+"shiyan2-1\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter "shiyan2-1\shiyan2-1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "shiyan2-1.map" -o shiyan2-1\shiyan2-1.axf
