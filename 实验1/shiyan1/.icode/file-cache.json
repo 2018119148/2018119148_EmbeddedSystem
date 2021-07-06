@@ -1,0 +1,66 @@
+{
+    "openFiles": [
+        {
+            "file": {
+                "name": "hello_world_demo.c",
+                "isFolder": false,
+                "path": "targets\\STM32L431_BearPi\\Demos\\hello_world_demo\\hello_world_demo.c",
+                "parentPath": "D:\\shiyan\\shiyan1\\targets\\STM32L431_BearPi\\Demos\\hello_world_demo",
+                "level": 6,
+                "isOpen": false,
+                "fileExtension": ".c",
+                "size": 2781
+            },
+            "currentShow": false,
+            "isPreview": false,
+            "isChange": false
+        },
+        {
+            "file": {
+                "name": "osal_task_demo.c",
+                "isFolder": false,
+                "path": "targets\\STM32L431_BearPi\\Demos\\osal_kernel_demo\\osal_task_demo.c",
+                "parentPath": "D:\\shiyan\\shiyan1\\targets\\STM32L431_BearPi\\Demos\\osal_kernel_demo",
+                "level": 6,
+                "isOpen": false,
+                "fileExtension": ".c",
+                "size": 2781
+            },
+            "currentShow": false,
+            "isPreview": false,
+            "isChange": false
+        },
+        {
+            "file": {
+                "name": "user_demo.mk",
+                "isFolder": false,
+                "path": "targets\\STM32L431_BearPi\\Demos\\user_demo.mk",
+                "parentPath": "D:\\shiyan\\shiyan1\\targets\\STM32L431_BearPi\\Demos",
+                "level": 5,
+                "isOpen": false,
+                "fileExtension": ".mk",
+                "size": 3893
+            },
+            "currentShow": false,
+            "isPreview": false,
+            "isChange": false
+        },
+        {
+            "file": {
+                "name": ".sdkconfig",
+                "isFolder": false,
+                "path": ".sdkconfig",
+                "parentPath": "D:\\shiyan\\shiyan1",
+                "level": 2,
+                "isOpen": false,
+                "fileExtension": "",
+                "size": 1607
+            },
+            "currentShow": false,
+            "isPreview": false,
+            "isChange": false
+        }
+    ],
+    "previewName": "..\\..\\hua\\IoT Studio",
+    "currentShowName": "targets\\STM32L431_BearPi\\Demos\\osal_kernel_demo\\osal_task_demo.c"
+}
